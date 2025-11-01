@@ -4,7 +4,7 @@ Where as a data analyst I focused on understanding business problem, created a p
 
 Received an email of Marketing Manager who shared the issue they were facing in their business.
 -
-Creation of ppt contains marketing manager email,as a data analyst pointing important elements with respect to data & what details need to consider for solving business problem.
+Creation of ppt contains marketing manager email,as a data analyst pointing important elements with respect to data & what other details need to consider for solving business problem.
 
 Connecting your data files with Microsoft SQL sever.
 
